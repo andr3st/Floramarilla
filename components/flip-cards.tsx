@@ -10,27 +10,27 @@ interface CardProps {
 
 const cards: CardProps[] = [
   {
-    frontImage: "/placeholder.svg?height=300&width=300",
+    frontImage: "/image1.jpeg?height=300&width=300",
     backMessage: "Cada día a tu lado es un regalo que atesoro con todo mi corazón.",
   },
   {
-    frontImage: "/placeholder.svg?height=300&width=300",
+    frontImage: "/image3.jpeg?height=300&width=300",
     backMessage: "Tu sonrisa ilumina mi mundo más que todas las estrellas del cielo.",
   },
   {
-    frontImage: "/placeholder.svg?height=300&width=300",
+    frontImage: "/pimage3.jpeg?height=300&width=300",
     backMessage: "Quisiera darte todo pero a veces no me es posible, aun así intento siempre demostrarlo.",
   },
   {
-    frontImage: "/placeholder.svg?height=300&width=300",
+    frontImage: "/image4.jpeg?height=300&width=300",
     backMessage: "Contigo, cada momento se convierte en un recuerdo hermoso.",
   },
   {
-    frontImage: "/placeholder.svg?height=300&width=300",
+    frontImage: "/image5.jpeg?height=300&width=300",
     backMessage: "Mi amor por ti crece cada día, como esta flor que nunca se marchitará.",
   },
   {
-    frontImage: "/placeholder.svg?height=300&width=300",
+    frontImage: "/image6.jpeg?height=300&width=300",
     backMessage: "Eres la melodía más hermosa en la sinfonía de mi vida.",
   },
 ]
