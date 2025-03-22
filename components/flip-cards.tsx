@@ -18,7 +18,7 @@ const cards: CardProps[] = [
     backMessage: "Tu sonrisa ilumina mi mundo más que todas las estrellas del cielo.",
   },
   {
-    frontImage: "/pimage3.jpeg?height=300&width=300",
+    frontImage: "/image3.jpeg?height=300&width=300",
     backMessage: "Quisiera darte todo pero a veces no me es posible, aun así intento siempre demostrarlo.",
   },
   {
