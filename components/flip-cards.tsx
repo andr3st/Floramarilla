@@ -14,7 +14,7 @@ const cards: CardProps[] = [
     backMessage: "Cada día a tu lado es un regalo que atesoro con todo mi corazón.",
   },
   {
-    frontImage: "/image3.jpeg?height=300&width=300",
+    frontImage: "/image2.jpeg?height=300&width=300",
     backMessage: "Tu sonrisa ilumina mi mundo más que todas las estrellas del cielo.",
   },
   {
